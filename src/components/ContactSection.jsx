@@ -72,7 +72,7 @@ export const ContactSection = () => {
               
                     <div className="relative pt-8 px-4 sm:px-8 md:px-20 flex justify-center md:justify-center animate-fadein-float scale-100">
                           <img 
-                            src="/public/assets/img/Photo.png" 
+                            src="/assets/img/Photo.png" 
                             className="w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48 lg:w-56 lg:h-56 object-cover rounded-full border-2 border-primary shadow-lg" 
                             alt="pfp" 
                           />
