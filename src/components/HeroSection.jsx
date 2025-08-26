@@ -5,7 +5,7 @@ export const HeroSection = () => {
     className="relative min-h-screen flex flex-col items-center justify-center px-4"
     > 
     <div className="mb-4">
-        <img src="/public/assets/img/logo.jpeg" alt="pfp"
+        <img src="/assets/img/logo.jpeg" alt="pfp"
         className='w-full h-32 object-cover rounded-full border-4 border-primary shadow-lg opacity-0 animate-fadein-float scale-120'/>
       </div>
         <div className="container max-w-4xl mx-auto text-center z-10">
